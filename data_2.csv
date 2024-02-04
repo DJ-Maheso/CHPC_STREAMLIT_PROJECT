@@ -1,0 +1,5 @@
+source,redshift,luminosity,t90,Epeak
+grb,1,5,2,10
+mgf,0.1,2,2,5
+grb, 1, 2, 3, 4
+lgrb, 2, 4, 6, 8
